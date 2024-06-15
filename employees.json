@@ -1,0 +1,45 @@
+[
+    {
+        "employee": {
+            "id": "uniq id",
+            "dType": "string",
+            "civilId": "string",
+            "fileNumber": "string",
+            "fullName": "string",
+            "jobName": "string",
+            "generalDepartment": "string",
+            "department": "string",
+            "branch": "string",
+            "address": "string",
+            "tell": "string",
+            "country": "string",
+            "city": "string",
+            "town": "string",
+            "photo": "string",
+            "vacations": [
+                {
+                    "vacationType": "string",
+                    "startDate": "2024-06-04T03:26:53.293Z",
+                    "endDate": "2024-06-04T03:26:53.293Z"
+                }
+            ],
+            "overtimes": [
+                {
+                    "daysWorked": 0
+                }
+            ],
+            "doctors": [
+                {
+                    "doctorVisitReason": "string",
+                    "visitDate": "2024-06-04T03:26:53.293Z"
+                }
+            ],
+            "sanctions": [
+                {
+                    "sanctionType": "string",
+                    "sanctionDate": "2024-06-04T03:26:53.293Z"
+                }
+            ]
+        }
+    }
+]
